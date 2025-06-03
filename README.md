@@ -1,4 +1,8 @@
 <h1 align="center"><b>Hi , I'm Kelson </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=FFBC0D&size=28&center=true&vCenter=true&width=900&height=100&lines=Interested About AI;An+Undergraduate+Computer+Science+Student;Focusing+ML+Projects" />
+</p>
+
 
 🎓 I'm an undergraduate student majoring in Computer Science.  
 🤖 I'm passionate about Artificial Intelligence and Machine Learning, especially their real-world applications.  
@@ -43,5 +47,5 @@
 
 ## 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/kelsonnn/)
-- Email: kelsonjonkelvi3110@gamil.com
+- LinkedIn: [linkedin.com/in/kelsonnn](https://www.linkedin.com/in/kelsonnn/)
+- Email: kelsonjonkelvi3110@gmail.com
